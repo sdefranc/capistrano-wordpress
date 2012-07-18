@@ -14,5 +14,5 @@ Requirements
 wp-config.php
 -------------
 
-This recipe expects you to have versioned wp-config-_stage_.php files on your
+This recipe expects you to have versioned wp-config-_stage_.php files in your
 repo.
