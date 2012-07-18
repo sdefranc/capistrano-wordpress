@@ -13,7 +13,7 @@ set :application, "application"
 # set :www_user, "www-data"
 
 set :copy_exclude, ["Capfile", "config", ".git", ".gitignore", ".gitmodules", "wp-config.php"]
-set :repository, "git@bitbucket.org:enspiral/royalsocietywp.git"
+set :repository, "git@github.com:example/example.git"
 set :scm, :git
 set :branch, "master"
 set :scm_verbose, false
